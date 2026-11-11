@@ -59,13 +59,13 @@ On a machine without internet access, download a release archive (and its `check
 ethon upgrade --from ethon_<version>_<os>_<arch>.tar.gz
 ```
 
-## Documentation
+## Documentation & Usage
 
-Usage documentation for the `ethon` CLI is coming soon.
+For guides on installing and updating Ethon on-prem applications, see the documentation in your Ethon Industrial AI Platform. Run `ethon --help`, or `ethon <command> --help`, for the available commands and flags.
 
 ## Support
 
-The `ethon` CLI is for users of the Ethon platform. If you have any questions, please contact Ethon support.
+The `ethon` CLI is for users of the Ethon Industrial AI Platform. If you have any questions, please contact Ethon support.
 
 ## License
 
