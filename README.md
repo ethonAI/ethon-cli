@@ -42,7 +42,7 @@ ethon version
 The released binaries are not yet code-signed, so the operating system may warn you the first time you run `ethon`. This is expected; the download is verified by `checksums.txt`.
 
 - **macOS:** if you see *"cannot be opened because it is from an unidentified developer"*, remove the quarantine flag once with `xattr -d com.apple.quarantine ./ethon`, then run it. (Alternatively: System Settings → Privacy & Security → "Open Anyway".)
-- **Windows:** if SmartScreen shows *"Windows protected your PC"*, click **More info → Run anyway**.
+- **Windows (PowerShell):** if SmartScreen shows *"Windows protected your PC"*, click **More info → Run anyway**.
 
 ## Keeping it up to date
 
