@@ -23,7 +23,7 @@ tar -xzf ethon_<version>_<os>_<arch>.tar.gz
 sudo mv ethon /usr/local/bin/
 ```
 
-**Windows:** extract the `.zip` and move `ethon.exe` to a directory on your `PATH`.
+**Windows (PowerShell):** extract the `.zip` and move `ethon.exe` to a directory on your `PATH`.
 
 Optionally verify the download against the `checksums.txt` from the same release:
 
